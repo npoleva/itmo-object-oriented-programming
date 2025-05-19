@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab3</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+
+
+    <ItemGroup>
+      <PackageReference Include="Crayon" />
+
+
+
+    </ItemGroup>
+
+
+
+
+
+
+
+
+
+
+</Project>
